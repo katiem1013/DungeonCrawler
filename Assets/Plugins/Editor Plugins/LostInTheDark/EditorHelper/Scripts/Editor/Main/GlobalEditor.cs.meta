@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d5d5c308d97531449d8257f40b8ee0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314737
+  packageName: Easy Custom Inspector Tools
+  packageVersion: 1.2
+  assetPath: Assets/LostInTheDark/EditorHelper/Scripts/Editor/Main/GlobalEditor.cs
+  uploadId: 758616

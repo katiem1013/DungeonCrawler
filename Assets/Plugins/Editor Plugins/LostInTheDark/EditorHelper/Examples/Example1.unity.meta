@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df261372f80f75e4888cb8633073bb89
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314737
+  packageName: Easy Custom Inspector Tools
+  packageVersion: 1.2
+  assetPath: Assets/LostInTheDark/EditorHelper/Examples/Example1.unity
+  uploadId: 758616

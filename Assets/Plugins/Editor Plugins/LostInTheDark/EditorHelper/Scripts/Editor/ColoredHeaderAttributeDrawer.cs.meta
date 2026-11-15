@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 52b3840a6ee4d174c85ae83c2cfd6412
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314737
+  packageName: Easy Custom Inspector Tools
+  packageVersion: 1.2
+  assetPath: Assets/LostInTheDark/EditorHelper/Scripts/Editor/ColoredHeaderAttributeDrawer.cs
+  uploadId: 758616

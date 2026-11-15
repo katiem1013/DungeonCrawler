@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47188f1431c6ee040b7eb4f318fe8843
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314737
+  packageName: Easy Custom Inspector Tools
+  packageVersion: 1.2
+  assetPath: Assets/LostInTheDark/EditorHelper/Scripts/LinkedDropdownAttributeAttribute.cs
+  uploadId: 758616

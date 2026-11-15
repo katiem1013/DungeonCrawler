@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 51f1562dbc6a05641b311703963c799e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314737
+  packageName: Easy Custom Inspector Tools
+  packageVersion: 1.2
+  assetPath: Assets/LostInTheDark/EditorHelper/Scripts/Editor/ListManagerAttributeDrawer.cs
+  uploadId: 758616
